@@ -7,3 +7,5 @@ To buy or request access, email:
 `muhammadyasein.og@gmail.com`
 
 Do not share your license key publicly. A license key may be limited by plan, credits, devices, and rate limits.
+
+Current launch tiers are listed in [Pricing and Credits](PRICING.md).

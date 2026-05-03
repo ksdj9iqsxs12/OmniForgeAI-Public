@@ -56,6 +56,8 @@ Include:
 - How many seats/devices you need.
 - Whether you want solo, pro, ultra, or team usage.
 
+See [Pricing and Credits](PRICING.md) for the current launch tiers and how OmniForge credits work.
+
 ## Current Release
 
 - Version: `1.0.0`
