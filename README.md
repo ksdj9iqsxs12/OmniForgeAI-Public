@@ -1,4 +1,4 @@
-# OmniForge AI
+﻿# OmniForge AI
 
 OmniForge AI is an Unreal Engine assistant built for fast game-development iteration inside the editor. It gives you a chat-first workflow for building gameplay systems, creating and editing assets, compiling, diagnosing errors, and turning rough ideas into playable Unreal prototypes.
 
@@ -6,7 +6,7 @@ OmniForge AI is an Unreal Engine assistant built for fast game-development itera
 
 - Builds UE gameplay features from natural language prompts.
 - Creates and edits C++ classes, Blueprints, UMG widgets, levels, actors, input setup, and project settings.
-- Wires common Blueprint graph events and values, including lifecycle/custom event entry points, Enhanced Input actions, component overlap delegates, UMG button clicks, typed Blueprint variables, concrete variable get/set nodes, Dynamic Cast nodes, and node pin defaults.
+- Wires common Blueprint graph events and values, including lifecycle/custom event entry points, Enhanced Input actions, component overlap delegates, UMG button clicks, typed Blueprint variables, typed Blueprint functions, concrete variable get/set nodes, Dynamic Cast nodes, and node pin defaults.
 - Runs compile and verification workflows so you can see what actually works.
 - Supports tool-driven game-development workflows for mechanics, UI, world building, assets, animation, VFX, audio, and diagnostics.
 - Uses an OmniForge license key so model access, credits, routing, updates, and account limits are managed centrally.
@@ -64,7 +64,7 @@ See [Pricing and Credits](PRICING.md) for the current launch tiers and how OmniF
 - Version: `1.0.0`
 - Package: `OmniForgeAI-1.0.0-v1.zip`
 - Engine: `UE 5.7.4`
-- SHA-256: `2e5da03ffc7193ac5e3266fa0031d66938ceb32909c82f242d2a028fae143afb`
+- SHA-256: `776e14960ff71be9ab9fea63663425420aef6b50ad7b10bd2322fb79c9bb49d6`
 
 ## Support
 
@@ -73,3 +73,4 @@ For license, install, or activation issues, email:
 `muhammadyasein.og@gmail.com`
 
 When reporting a bug, include your Unreal version, Windows version, the OmniForge error code if shown, and what you were trying to build.
+
