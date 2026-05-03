@@ -3,13 +3,13 @@
     "version":  "1.0.0",
     "engine_version":  "5.7.4",
     "package":  "OmniForgeAI-1.0.0-v1.zip",
-    "sha256":  "8860adee888eb7da83272e434c689fe418b4b07747f7f7f09887c05c723bd988",
-    "bytes":  2476661,
-    "source_checkpoint":  "2277749",
+    "sha256":  "dd015c95d27ab775760509a0f7eb2159a316846c70ab5dc9fbfa2afd409986b3",
+    "bytes":  2487494,
+    "source_checkpoint":  "785c6d8",
     "support_email":  "muhammadyasein.og@gmail.com",
     "notes":  [
                   "Binary-only UE 5.7.4 plugin package.",
-                  "Includes modal-safe tool scheduling, structured asset package inspection, native UMG inspection/patching, native Material Instance inspection/patching, native Enhanced Input Blueprint event wiring, and native component delegate event wiring.",
+                  "Includes modal-safe tool scheduling, structured asset package inspection, native UMG inspection/patching, native Material Instance inspection/patching, native Enhanced Input Blueprint event wiring, native component delegate event wiring, and native UMG widget event wiring.",
                   "Requires a valid OmniForge license key to use chat, models, search, updates, and tools."
               ]
 }
