@@ -3,13 +3,13 @@
     "version":  "1.0.0",
     "engine_version":  "5.7.4",
     "package":  "OmniForgeAI-1.0.0-v1.zip",
-    "sha256":  "7c3f01f39d7d7a5c74635b82243cd94b6f38c79052fa2c741101488a61a66f9d",
-    "bytes":  2500950,
-    "source_checkpoint":  "28e8cc7",
+    "sha256":  "a4705ca663bc5fe583e7c6f8694975b31c933a3ee5e18b3643b1441a09c5b335",
+    "bytes":  2501971,
+    "source_checkpoint":  "92c2e72",
     "support_email":  "muhammadyasein.og@gmail.com",
     "notes":  [
                   "Binary-only UE 5.7.4 plugin package.",
-                  "Includes modal-safe tool scheduling, structured asset package inspection, native UMG inspection/patching, native Material Instance inspection/patching, native Enhanced Input Blueprint event wiring, native component delegate event wiring, native UMG widget event wiring, native Blueprint pin default assignment, and concrete Blueprint variable get/set node creation.",
+                  "Includes modal-safe tool scheduling, structured asset package inspection, native UMG inspection/patching, native Material Instance inspection/patching, native Enhanced Input Blueprint event wiring, native component delegate event wiring, native UMG widget event wiring, native Blueprint pin default assignment, concrete Blueprint variable get/set node creation, and configured Dynamic Cast node creation.",
                   "Requires a valid OmniForge license key to use chat, models, search, updates, and tools."
               ]
 }
