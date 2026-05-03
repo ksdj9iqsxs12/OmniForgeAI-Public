@@ -63,7 +63,7 @@ See [Pricing and Credits](PRICING.md) for the current launch tiers and how OmniF
 - Version: `1.0.0`
 - Package: `OmniForgeAI-1.0.0-v1.zip`
 - Engine: `UE 5.7.4`
-- SHA-256: `e11b2f45159e5e17698c7dc98bd6f58a6a5194a5533b2e1fab76fa22d0c66914`
+- SHA-256: `0b60b3d9168d58f916d64094479633199a1b16694e991ebc5c3af5cf640cb573`
 
 ## Support
 
