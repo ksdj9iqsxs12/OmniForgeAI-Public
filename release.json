@@ -3,13 +3,13 @@
     "version":  "1.0.0",
     "engine_version":  "5.7.4",
     "package":  "OmniForgeAI-1.0.0-v1.zip",
-    "sha256":  "776e14960ff71be9ab9fea63663425420aef6b50ad7b10bd2322fb79c9bb49d6",
-    "bytes":  2532553,
-    "source_checkpoint":  "2e87629",
+    "sha256":  "3c3ec12b56e0d971e2c6c228ac9d3c49f384e8903b86a8b6e496af72ffbc3c67",
+    "bytes":  2538126,
+    "source_checkpoint":  "35bcb3d",
     "support_email":  "muhammadyasein.og@gmail.com",
     "notes":  [
                   "Binary-only UE 5.7.4 plugin package.",
-                  "Includes modal-safe tool scheduling, structured asset package inspection, native UMG inspection/patching, native Material Instance inspection/patching, native Enhanced Input Blueprint event wiring, native component delegate event wiring, native UMG widget event wiring, native Blueprint pin default assignment, concrete Blueprint variable get/set node creation, configured Dynamic Cast node creation, native lifecycle/custom Blueprint event entry wiring, native typed Blueprint variable creation/update, and native typed Blueprint function graph creation/update.",
+                  "Includes modal-safe tool scheduling, structured asset package inspection, native UMG inspection/patching, native Material Instance inspection/patching, native Enhanced Input Blueprint event wiring, native component delegate event wiring, native UMG widget event wiring, native Blueprint pin default assignment, concrete Blueprint variable get/set node creation, configured Dynamic Cast node creation, native lifecycle/custom Blueprint event entry wiring, native typed Blueprint variable creation/update, native typed Blueprint function graph creation/update, and configured Blueprint flow nodes for Branch, Sequence, and Self.",
                   "Requires a valid OmniForge license key to use chat, models, search, updates, and tools."
               ]
 }

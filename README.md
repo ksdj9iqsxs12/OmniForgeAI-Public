@@ -6,7 +6,7 @@ OmniForge AI is an Unreal Engine assistant built for fast game-development itera
 
 - Builds UE gameplay features from natural language prompts.
 - Creates and edits C++ classes, Blueprints, UMG widgets, levels, actors, input setup, and project settings.
-- Wires common Blueprint graph events and values, including lifecycle/custom event entry points, Enhanced Input actions, component overlap delegates, UMG button clicks, typed Blueprint variables, typed Blueprint functions, concrete variable get/set nodes, Dynamic Cast nodes, and node pin defaults.
+- Wires common Blueprint graph events and values, including lifecycle/custom event entry points, Enhanced Input actions, component overlap delegates, UMG button clicks, typed Blueprint variables, typed Blueprint functions, concrete variable get/set nodes, Dynamic Cast nodes, Branch/Sequence/Self flow nodes, and node pin defaults.
 - Runs compile and verification workflows so you can see what actually works.
 - Supports tool-driven game-development workflows for mechanics, UI, world building, assets, animation, VFX, audio, and diagnostics.
 - Uses an OmniForge license key so model access, credits, routing, updates, and account limits are managed centrally.
@@ -64,7 +64,7 @@ See [Pricing and Credits](PRICING.md) for the current launch tiers and how OmniF
 - Version: `1.0.0`
 - Package: `OmniForgeAI-1.0.0-v1.zip`
 - Engine: `UE 5.7.4`
-- SHA-256: `776e14960ff71be9ab9fea63663425420aef6b50ad7b10bd2322fb79c9bb49d6`
+- SHA-256: `3c3ec12b56e0d971e2c6c228ac9d3c49f384e8903b86a8b6e496af72ffbc3c67`
 
 ## Support
 
@@ -73,4 +73,5 @@ For license, install, or activation issues, email:
 `muhammadyasein.og@gmail.com`
 
 When reporting a bug, include your Unreal version, Windows version, the OmniForge error code if shown, and what you were trying to build.
+
 
