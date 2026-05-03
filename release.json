@@ -1,7 +1,14 @@
-{
-  "plugin": "OmniForgeAI",
-  "version": "1.0.0",
-  "package": "OmniForgeAI-1.0.0-v1.zip",
-  "sha256": "893f82e228e47b806a315d699e2703c3ab3847b59e8158b55521c15a0bbd78bd",
-  "support_email": "muhammadyasein.og@gmail.com"
+﻿{
+    "plugin":  "OmniForgeAI",
+    "version":  "1.0.0",
+    "engine_version":  "5.7.4",
+    "package":  "OmniForgeAI-1.0.0-v1.zip",
+    "sha256":  "e11b2f45159e5e17698c7dc98bd6f58a6a5194a5533b2e1fab76fa22d0c66914",
+    "bytes":  2395718,
+    "source_checkpoint":  "4f47899",
+    "support_email":  "muhammadyasein.og@gmail.com",
+    "notes":  [
+                  "Binary-only UE 5.7.4 plugin package.",
+                  "Requires a valid OmniForge license key to use chat, models, search, updates, and tools."
+              ]
 }
