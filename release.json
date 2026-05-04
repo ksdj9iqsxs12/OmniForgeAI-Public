@@ -3,14 +3,15 @@
     "version":  "1.0.0",
     "engine_version":  "5.7.4",
     "package":  "OmniForgeAI-1.0.0-v1.zip",
-    "sha256":  "c8f4184c8d7c4232309459676fed26b8b9fbeb04333f647b354686573e8c7d12",
-    "bytes":  2546923,
-    "source_checkpoint":  "04e66ad",
+    "sha256":  "85faf5657aafee3768e1e38360dea852c0368823bbe395f46a9b36aaf9471ec9",
+    "bytes":  2550513,
+    "source_checkpoint":  "b5c9232",
     "support_email":  "muhammadyasein.og@gmail.com",
     "notes":  [
                   "Binary-only UE 5.7.4 plugin package.",
                   "Includes modal-safe tool scheduling, structured asset package inspection, native UMG inspection/patching, native Material Instance inspection/patching, native Enhanced Input Blueprint event wiring, native component delegate event wiring, native UMG widget event wiring, native Blueprint pin default assignment, concrete Blueprint variable get/set node creation, configured Dynamic Cast node creation, native lifecycle/custom Blueprint event entry wiring, native typed Blueprint variable creation/update, native typed Blueprint function graph creation/update, configured Blueprint flow nodes for Branch, Sequence, and Self, and configured CreateWidget node creation for Widget Blueprint instantiation.",
                   "Requires a valid OmniForge license key to use chat, models, search, updates, and tools.",
-                  "Includes structured Blueprint node result envelopes so agents see exact execution, side effects, node identity, and pin evidence after graph mutations."
+                  "Includes structured Blueprint node result envelopes so agents see exact execution, side effects, node identity, and pin evidence after graph mutations.",
+                  "Includes structured Blueprint pin connection evidence so agents know whether graph flow actually changed before compile/verification."
               ]
 }
