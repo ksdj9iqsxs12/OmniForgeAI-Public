@@ -65,7 +65,7 @@ See [Pricing and Credits](PRICING.md) for the current launch tiers and how OmniF
 - Version: `1.0.0`
 - Package: `OmniForgeAI-1.0.0-v1.zip`
 - Engine: `UE 5.7.4`
-- SHA-256: `9ca644aea51eb94c50d139b10e8ec0ce813958dd8bdd03be5b028025ad13d11b`
+- SHA-256: `34db1c59082dfecf43670cc7e7175c6e9ce90d404a20f2740ee8d6581fdc8ccb`
 
 ## Support
 
@@ -76,4 +76,9 @@ For license, install, or activation issues, email:
 When reporting a bug, include your Unreal version, Windows version, the OmniForge error code if shown, and what you were trying to build.
 
 
+
+
+## Latest Patch
+
+- Mode status guard: Plan/Team/Story mode-status questions are answered by OmniForge control plane without upstream model drift or credit charge.
 
